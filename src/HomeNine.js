@@ -26,13 +26,10 @@ class HomeNine extends React.Component {
               <div className="container slidero">
                 <div className="row">
                   <div className="col-lg-8 offset-lg-2 text-white text-center">
-                    <h1 className="home-title">
-                      We help startups launch their products
-                    </h1>
+                    <h1 className="home-title">Bem vindo ao AAPP</h1>
                     <p className="padding-t-15 home-desc">
-                      Etiam sed.Interdum consequat proin vestibulum className at
-                      a euismod mus luctus quam.Lorem ipsum dolor sit amet,
-                      consectetur adipisicing eli.
+                      Aqui você poderá encontrar os grupos e reuniões mais
+                      próximos de você
                     </p>
                     <p className="play-shadow margin-t-30 margin-l-r-auto">
                       {" "}

@@ -150,7 +150,7 @@ b {
 }
 
 .bg-overlay {
-  background: linear-gradient(to right, #512da8, #711e72);
+  background: linear-gradient(to right, #c3d3f2, #c78efd);
   opacity: 0.9;
   position: absolute;
   height: 100%;
@@ -318,6 +318,10 @@ iframe {
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
+}
+
+.navbar-custom > .container {
+  width: auto;
 }
 
 .sticky-wrapper {
@@ -1097,7 +1101,7 @@ textarea.form-control {
     border-color: transparent;
   }
   .navbar-custom > .container {
-    width: 90%;
+    width: auto;
   }
   .navbar-toggler {
     font-size: 24px;
