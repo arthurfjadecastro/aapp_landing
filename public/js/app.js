@@ -84,11 +84,11 @@
   }
 
   function init() {
-    // initNavbar();
-    // initSticky();
-    // initScrollspy();
-    // initMagnificPopup();
-    // initContactForm();
+    initNavbar();
+    initSticky();
+    initScrollspy();
+    initMagnificPopup();
+    initContactForm();
     Waves.init();
   }
 
