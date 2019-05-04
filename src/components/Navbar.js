@@ -5,7 +5,7 @@ class Navbar extends React.Component {
     return (
       <nav className="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark">
         <div className="container">
-          <a className="navbar-brand logo text-uppercase" href="/home-one">
+          <a className="navbar-brand logo text-uppercase" href="/">
             AAPP
           </a>
           <button
