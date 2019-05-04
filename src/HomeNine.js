@@ -94,7 +94,7 @@ class HomeNine extends React.Component {
         <FooterLinks />
 
         {/* Switcher Component*/}
-        <Switcher />
+        {/* <Switcher /> */}
       </Aux>
     );
   }
