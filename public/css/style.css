@@ -663,7 +663,7 @@ iframe {
 }
 
 .services-box:hover i {
-  background-color: #fb3e3e !important;
+  background-color: #c3d3f2 !important;
   color: #ffffff !important;
   transition: all 0.3s ease-in-out;
 }

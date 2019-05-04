@@ -28,8 +28,7 @@ class HomeNine extends React.Component {
                   <div className="col-lg-8 offset-lg-2 text-white text-center">
                     <h1 className="home-title">Bem vindo ao AAPP</h1>
                     <p className="padding-t-15 home-desc">
-                      Aqui você poderá encontrar os grupos e reuniões mais
-                      próximos de você
+                      O Aplicativo que eSAEASEASEA do Alcoolismo
                     </p>
                     <p className="play-shadow margin-t-30 margin-l-r-auto">
                       {" "}
