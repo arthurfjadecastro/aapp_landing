@@ -13,7 +13,6 @@
 .play-btn,
 .blog-title:hover,
 .social-icon:hover i {
-  color: #c3d3f2 !important;
 }
 
 .section-title-border,
@@ -23,12 +22,19 @@
 .features-item-list li:before,
 .process-left-icon-1 i,
 .process-left-icon-2 i {
-  background-color: #c3d3f2;
+  /* background-color: red; */
+}
+.play-btn:hover {
+  background: rgba(195, 211, 242, 0.3);
+}
+
+.services-box:hover i {
+  /* background-color: rgba(195, 211, 242, 1) !important; */
 }
 
 .btn-custom,
 .play-btn {
-  border-color: #c3d3f2 !important;
+  border-color: #ffffff !important;
 }
 
 .btn-custom:hover,
