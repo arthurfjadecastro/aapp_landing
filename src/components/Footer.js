@@ -12,32 +12,35 @@ class Footer extends React.Component {
               <div className="text-muted margin-t-20">
                 <ul className="list-inline social ">
                   <li className="list-inline-item">
-                    {" "}
-                    <Link
-                      to="https://www.linkedin.com/in/arthurfjadecastro/"
+                    <a
                       className="social-icon"
+                      href="https://www.linkedin.com/in/arthurfjadecastro/"
+                      target="_blank"
+                      rel="noopener"
                     >
                       <i className="mdi mdi-linkedin" />
-                    </Link>
+                    </a>
                   </li>
                   <li className="list-inline-item">
-                    {" "}
-                    <Link
-                      to="http://arthurfjadecastro.com"
+                    <a
                       className="social-icon"
+                      href="http://arthurfjadecastro.com"
+                      target="_blank"
+                      rel="noopener"
                     >
                       <i className="mdi mdi-account-plus" />
-                    </Link>
+                    </a>
                   </li>
 
                   <li className="list-inline-item">
-                    {" "}
-                    <Link
-                      to="https://github.com/arthurfjadecastro"
+                    <a
                       className="social-icon"
+                      href="https://github.com/arthurfjadecastro"
+                      target="_blank"
+                      rel="noopener"
                     >
                       <i className="mdi mdi-github-circle" />
-                    </Link>
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -47,16 +50,24 @@ class Footer extends React.Component {
               <div className="text-muted margin-t-20">
                 <ul className="list-unstyled footer-list">
                   <li>
-                    <Link to="JavaScript:Void(0);">CATI-DF</Link>
+                    <Link to="JavaScript:Void(0);">
+                      Orientador - Mário Braga
+                    </Link>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Psicóloga Elane</Link>
+                    <Link className="margin-t-5" to="JavaScript:Void(0);">
+                      Elane - LVG Psicologia
+                    </Link>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Clínica Nedeq</Link>
+                    <Link className="margin-t-5" to="JavaScript:Void(0);">
+                      Rede de Clínicas de reabilitação
+                    </Link>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Mário Braga</Link>
+                    <Link className="margin-t-5" to="JavaScript:Void(0);">
+                      CATI/DF - Comitê para Assuntos de Tecnologia Integrada
+                    </Link>
                   </li>
                 </ul>
               </div>

@@ -9,10 +9,12 @@ class Descriptions extends React.Component {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <h2 className="text-white">Title</h2>
+              <h2 className="text-white">
+                Em breve <br /> 13/08/2019
+              </h2>
               <p className="padding-t-15 home-desc">
-                Texto grande adicionado aqui para fazer sentido em conformidade
-                a imagem inserida e download na loja da Apple Store
+                Confira a evolução deste aplicativo para acompanhar seu
+                lançamento e suas novidades
               </p>
               <Link
                 to="JavaScript:Void(0);"

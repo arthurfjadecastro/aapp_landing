@@ -11,7 +11,7 @@ class Contact extends React.Component {
               <p className="text-center section-title">🤗</p>
               <div className="section-title-border margin-t-20" />
               <p className="section-subtitle text-muted text-center font-secondary padding-t-30">
-                Para qualquer assunto, entre em contato com os envolvidos do
+                Para qualquer assunto, entre em contato com os envolvidos no
                 projeto.
               </p>
             </div>

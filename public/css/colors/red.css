@@ -60,3 +60,7 @@
 .open > .dropdown-toggle.btn-custom {
   border-color: #c3d3f2 !important;
 }
+
+.margin-t-5 {
+  margin-top: 5px !important;
+}

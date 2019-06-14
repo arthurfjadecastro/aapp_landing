@@ -11,15 +11,16 @@ class Features extends React.Component {
               <div className="features-box">
                 <h3>Vantagens</h3>
                 <p className="text-muted web-desc">
-                  resumo sobre as vantagens loreipsumresumo sobre as vantagens
-                  loreipsumresumo sobre as vantagens loreipsumresumo sobre as
-                  vantagens loreipsumresumo sobre as vantagens loreipsum
+                  AAPP tenta elevar o nível de usabilidade na busca de
+                  informacões para qualquer usuário que necessite dos grupos de
+                  Alcoólicos Anônimos, seja para sí mesmo ou para ajudar o
+                  próximo.
                 </p>
                 <ul className="text-muted list-unstyled margin-t-30 features-item-list">
-                  <li className="">LoreIpsum</li>
-                  <li className="">LoreIpsum</li>
-                  <li className="">LoreIpsum</li>
-                  <li className="">LoreIpsum</li>
+                  <li className="">Anonimato 100%</li>
+                  <li className="">Fácil de usar</li>
+                  <li className="">Sem cadastro</li>
+                  <li className="">Em qualquer lugar do Brasil</li>
                 </ul>
                 <Link
                   to="JavaScript:Void(0);"

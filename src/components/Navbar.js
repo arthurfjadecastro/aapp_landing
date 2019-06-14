@@ -23,22 +23,22 @@ class Navbar extends React.Component {
             <ul className="navbar-nav navbar-center" id="mySidenav">
               <li className="nav-item active">
                 <a href="#home" className="nav-link">
-                  Home
+                  Início
                 </a>
               </li>
               <li className="nav-item">
                 <a href="#services" className="nav-link">
-                  Services
+                  Serviços
                 </a>
               </li>
               <li className="nav-item">
                 <a href="#features" className="nav-link">
-                  Features
+                  Funcionalidades
                 </a>
               </li>
               <li className="nav-item">
                 <a href="#contact" className="nav-link">
-                  Contact
+                  Contato
                 </a>
               </li>
             </ul>
