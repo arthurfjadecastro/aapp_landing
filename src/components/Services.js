@@ -22,7 +22,7 @@ class Services extends React.Component {
                 <h4 className="padding-t-15">Mapa</h4>
                 <p className="padding-t-15 text-muted">
                   Com o mapa será possível navegar e verificar onde existe
-                  grupos e reunioes de A.A
+                  grupos e reuniões de A.A
                 </p>
               </div>
             </div>
@@ -31,18 +31,17 @@ class Services extends React.Component {
                 <i className="pe-7s-news-paper text-custom" />
                 <h4 className="padding-t-15">12 Passos</h4>
                 <p className="padding-t-15 text-muted">
-                  Conheça os ritos e tradicoes dos grupos e perca o medo de se
-                  envolver
+                  Conheça as tradições dos grupos
                 </p>
               </div>
             </div>
             <div className="col-lg-4 margin-t-20">
               <div className="services-box text-center hover-effect">
                 <i className="pe-7s-info text-custom" />
-                <h4 className="padding-t-15">Reunioes</h4>
+                <h4 className="padding-t-15">Encontros</h4>
                 <p className="padding-t-15 text-muted">
-                  Tenha acesso aos dias e horários das reunioes dos grupos mais
-                  próximos a você
+                  Tenha acesso de forma simples aos dias e horários das reuniões
+                  mais perto de você
                 </p>
               </div>
             </div>

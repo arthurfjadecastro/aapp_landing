@@ -9,17 +9,17 @@ class Features extends React.Component {
           <div className="row vertical-content">
             <div className="col-lg-5">
               <div className="features-box">
-                <h3>Titulo da parada pra falar sobre as vantagens</h3>
+                <h3>Vantagens</h3>
                 <p className="text-muted web-desc">
                   resumo sobre as vantagens loreipsumresumo sobre as vantagens
                   loreipsumresumo sobre as vantagens loreipsumresumo sobre as
                   vantagens loreipsumresumo sobre as vantagens loreipsum
                 </p>
                 <ul className="text-muted list-unstyled margin-t-30 features-item-list">
-                  <li className="">praticidade etc</li>
-                  <li className="">qualidade nos processos</li>
-                  <li className="">comodidade</li>
-                  <li className="">Desmistificacao</li>
+                  <li className="">LoreIpsum</li>
+                  <li className="">LoreIpsum</li>
+                  <li className="">LoreIpsum</li>
+                  <li className="">LoreIpsum</li>
                 </ul>
                 <Link
                   to="JavaScript:Void(0);"

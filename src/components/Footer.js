@@ -10,7 +10,7 @@ class Footer extends React.Component {
             <div className="col-lg-4 margin-t-20 adjustColSocialNetwork">
               <h4>Redes sociais</h4>
               <div className="text-muted margin-t-20">
-                <ul className="list-inline social margin-t-20">
+                <ul className="list-inline social ">
                   <li className="list-inline-item">
                     {" "}
                     <Link
@@ -47,16 +47,16 @@ class Footer extends React.Component {
               <div className="text-muted margin-t-20">
                 <ul className="list-unstyled footer-list">
                   <li>
-                    <Link to="JavaScript:Void(0);">CATI-DF/SP</Link>
+                    <Link to="JavaScript:Void(0);">CATI-DF</Link>
                   </li>
                   <li>
                     <Link to="JavaScript:Void(0);">Psicóloga Elane</Link>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Clínica Nedeque</Link>
+                    <Link to="JavaScript:Void(0);">Clínica Nedeq</Link>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Orientador Mário Braga</Link>
+                    <Link to="JavaScript:Void(0);">Mário Braga</Link>
                   </li>
                 </ul>
               </div>

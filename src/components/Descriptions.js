@@ -9,14 +9,14 @@ class Descriptions extends React.Component {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <h2 className="text-white">Alguma coisa a ser pensada</h2>
+              <h2 className="text-white">Title</h2>
               <p className="padding-t-15 home-desc">
-                Um texto grande deve ser adicionaro aqui para fazer sentido em
-                conformidade a imagem inserida
+                Texto grande adicionado aqui para fazer sentido em conformidade
+                a imagem inserida e download na loja da Apple Store
               </p>
               <Link
                 to="JavaScript:Void(0);"
-                className="btn  margin-t-30 waves-effect waves-light mb-5"
+                className="btn  margin-t-30 waves-effect waves-light mb-5 d-block"
               >
                 <img
                   className="img-fluid maxWidth-20"
