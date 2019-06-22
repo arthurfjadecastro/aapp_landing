@@ -28,6 +28,10 @@
   background: rgba(195, 211, 242, 0.3);
 }
 
+#contact-form > div:nth-child(4) > div > input {
+  background: rgba(195, 211, 242, 1);
+}
+
 .services-box:hover i {
   /* background-color: rgba(195, 211, 242, 1) !important; */
 }

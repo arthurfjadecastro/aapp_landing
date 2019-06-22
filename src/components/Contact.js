@@ -1,4 +1,5 @@
 import React from "react";
+import AbstractedButton from "./abstractedButton";
 
 class Contact extends React.Component {
   render() {
@@ -79,9 +80,9 @@ class Contact extends React.Component {
                     <div className="col-lg-12 text-right">
                       <input
                         type="submit"
-                        id="submit"
+                        id=""
                         name="send"
-                        className="submitBnt btn btn-custom"
+                        className=" btn btn-custom"
                         value="Enviar mensagem"
                       />
                       <div id="simple-msg" />
